@@ -32,10 +32,10 @@ export default {
   computed: {
     classes() {
       return {
-        'storybook-button': true,
-        'storybook-button--primary': this.primary,
-        'storybook-button--secondary': !this.primary,
-        [`storybook-button--${this.size}`]: true,
+        'dada-button': true,
+        'dada-button--primary': this.primary,
+        'dada-button--secondary': !this.primary,
+        [`dada-button--${this.size}`]: true,
       };
     },
     style() {

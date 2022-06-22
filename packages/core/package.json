@@ -1,0 +1,10 @@
+{
+    "name": "@hooho/dada-ui-core",
+    "version": "1.0.1",
+    "scripts": {
+    },
+    "author": "hooho.dev@gmail.com",
+    "license": "ISC",
+    "dependencies": {
+    }
+  }

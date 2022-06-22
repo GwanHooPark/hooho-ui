@@ -8,11 +8,17 @@ export default Vue.extend({
   // components: {
   //  DadaUiUiSample,
   // }
+  methods: {
+    testClick() {
+      alert('dada button');
+    },
+  },
 });
 </script>
 
 <template>
   <div id="app">
     <dada-ui-sample />
+    <DadaButton label="dadaButton" primary size="medium" @click="testClick"/>
   </div>
 </template>

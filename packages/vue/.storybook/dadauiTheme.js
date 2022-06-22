@@ -5,6 +5,6 @@ export default create({
   brandTitle: 'DadaUi',
   brandUrl: 'https://example.com',
   //brandImage: 'https://place-hold.it/350x150',
-  brandImage: 'logo-dadaui.png',
+  brandImage: 'dadaui-logo.jpg',
   brandTarget: '_self',
 });
